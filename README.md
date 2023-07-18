@@ -5,7 +5,7 @@ This repository contains the code and resources for the Mental Fitness Tracker p
 ## Project Description
 The Mental Fitness Tracker project is designed to address the growing importance of mental health and well-being. It focuses on building a digital tool that allows users to track and manage their mental fitness levels, providing valuable insights and personalized recommendations for improvement. The project leverages technologies such as data analytics, machine learning, and user experience design to deliver a comprehensive solution.
 
-You can access the Google Colab notebook for this project by clicking here.
+You can access the Google Colab notebook for this project by clicking [here](https://colab.research.google.com/drive/17joO6umBsKIchZOlEqp41iL2DDRR6HQy).
 
 ## Key Features
 1. **User Registration and Authentication:** Users can create an account and securely log in to access the mental fitness tracker. Authentication ensures the privacy and confidentiality of user data.
